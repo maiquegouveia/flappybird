@@ -1,5 +1,5 @@
 # flappybird
-Unfinished FlappyBird Game
+Unfinished FlappyBird Game<br>
 *Requirements*
 The module pygame
 How to install:
