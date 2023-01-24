@@ -1,7 +1,7 @@
 # flappybird
-Unfinished FlappyBird Game
-<br>*Requirements*
-- The module pygame
-<br>How to install:
-1. Go to Command Prompt (cmd)
-2. Execute the following command: pip install pygame
+<h3>Unfinished FlappyBird Game</h3>
+<p><strong>Requirements</strong></p>
+<p> - The module pygame</p>
+<p><strong>How to install</strong></p>
+<p>1. Go to Command Prompt (cmd)</p>
+<p>2. Execute the following command: <strong>pip install pygame</strong></p>
